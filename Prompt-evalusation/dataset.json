@@ -1,0 +1,11 @@
+[
+  {
+    "task": "Write a Python function that takes an AWS S3 bucket name as input and returns True if the bucket name follows AWS naming conventions (lowercase letters, numbers, hyphens only, 3-63 characters, no consecutive periods or hyphens at start/end), False otherwise."
+  },
+  {
+    "task": "Create a JSON object representing an AWS IAM policy that grants read-only access to a specific S3 bucket named 'company-logs-bucket' for objects with the prefix 'application/'."
+  },
+  {
+    "task": "Write a regex pattern that matches valid AWS EC2 instance IDs (format: i- followed by 8 or 17 hexadecimal characters, like i-1234567890abcdef0 or i-12345678)."
+  }
+]
